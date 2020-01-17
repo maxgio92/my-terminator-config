@@ -16,11 +16,11 @@
 [profiles]
   [[default]]
     cursor_color = "#aaaaaa"
-    font = Ubuntu Mono 12
+    font = Noto Sans Mono Thin 12
     use_system_font = False
   [[massi]]
     cursor_color = "#aaaaaa"
-    font = Ubuntu Mono 12
+    font = Monospace 11
     scrollback_infinite = True
     scrollbar_position = hidden
     show_titlebar = False
